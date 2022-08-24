@@ -8,8 +8,8 @@ The school board has notified Maria that there has been academic dishonesty in t
 
 * The school distric summary was only affected in regards to Thomas High School as all the other schools remained the same. The images showing the old and new school summary are shown below:
 
-** Original School Summary:
+  * Original School Summary:
 ![Original_School_Summary](/Resources/Original_School_Summary.png)
 
-** New School Summary:
+  * New School Summary:
 ![New_School_Summary](/Resources/New_School_Summary.png)
