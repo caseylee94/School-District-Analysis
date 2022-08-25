@@ -33,5 +33,7 @@ The school board has notified Maria that there has been academic dishonesty in t
   * ![New_Top5_Schools.png](/Resources/New_Top5_Schools.png)
   * The scores have overall dropped slightly but Thomas High retains it's ranking as a top five school.
 
-* Replacing the reading and math scores with NaN did not affect the other scores by grade, it just replaced the 9th grade reading and math scores leaving all over the other data intact. The figures below show these results, as well as some of the coding involved:
-  * ![New_ScoresbyGrade.png](/Resources/New_ScoresbyGrade.png)
+* Replacing the reading and math scores with NaN did not affect the other scores by grade, it just replaced the 9th grade reading and math scores leaving all over the other data intact.
+
+* Scores by School Spending:
+  * ![New_Scores_School_Spending.png](/Resources/New_Scores_School_Spending.png)
