@@ -50,4 +50,4 @@ The school board has notified Maria that there has been academic dishonesty in t
    * The values for the scores by school type also were largely unaffected by this change in the data.
 
 ## Summary
-In conclusion 
+In conclusion, removing the dishonest grades caused some changes in the school district analysis. The overall district analysis saw a drop in all of the scores. The school district summary was affected in regards to Thomas High School itself, which shows a drop in performance once the grades were replaced. Replacing the ninth graders scores with NaN and running the analysis shows a large decrease in the overall passing percentage, from 90.95% to 65.08%. Once refactored to analyze only the scores of the 10th, 11th, and 12th graders from Thomas High, the school is still in the top five performing schools but with slightly lower overall scores. In conclusion, these fradulent scores luckily did not greatly impact the overall school district analysis but mostly affected the individual scores for Thomas High School.
