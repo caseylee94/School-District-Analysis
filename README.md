@@ -31,3 +31,4 @@ The school board has notified Maria that there has been academic dishonesty in t
 * This affected Thomas High School's overall performance against the other schools; in the original analysis Thomas High School was in the top 5 performing school but once the 9th graders scores are replaced with NaN Thomas High falls to ranking 8th.
   * However, once the 9th graders were factored out by analyzing only the 10th, 11th, and 12th grade, which gives us greater insight into how Thomas High truly performed, Thomas High is once again in the top five:
   * ![New_Top5_Schools.png](/Resources/New_Top5_Schools.png)
+  * The scores have overall dropped slightly but Thomas High retains it's ranking as a top five school.
