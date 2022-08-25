@@ -6,7 +6,8 @@ The school board has notified Maria that there has been academic dishonesty in t
 
 ## Results
 
-* Disctrict Summary:
+* The results from the district analysis:
+
   * The original district summary:
   * ![Original_District_Summary](/Resources/Original_District_Summary.png)
 
