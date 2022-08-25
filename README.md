@@ -43,7 +43,11 @@ The school board has notified Maria that there has been academic dishonesty in t
 
 * Scores by School Size:
 ![New_Scores_SchoolSize.png](/Resources/New_Scores_SchoolSize.png)
-  * The values for the scores by school size 
+  * The values for the scores by school size remained relatively unchanged when the 9th graders scores were changed. This is likely because of how large the dataset is and removing one grade luckily does not have a great impact on the overall analysis of the scores by school size.
 
 * Scores by School Type:
   ![New_SchoolType.png](/Resources/New_SchoolType.png)
+  * The values for the scores by school type also were largely unaffected by this change in the data.
+
+## Summary
+In conclusion 
