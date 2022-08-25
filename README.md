@@ -43,6 +43,7 @@ The school board has notified Maria that there has been academic dishonesty in t
 
 * Scores by School Size:
 ![New_Scores_SchoolSize.png](/Resources/New_Scores_SchoolSize.png)
+  * The values for the scores by school size 
 
 * Scores by School Type:
   ![New_SchoolType.png](/Resources/New_SchoolType.png)
