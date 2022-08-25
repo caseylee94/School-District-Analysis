@@ -6,7 +6,7 @@ The school board has notified Maria that there has been academic dishonesty in t
 
 ## Results
 
-* The results from the district analysis:
+* District analysis:
 
   * The original district summary:
   * ![Original_District_Summary](/Resources/Original_District_Summary.png)
@@ -15,6 +15,8 @@ The school board has notified Maria that there has been academic dishonesty in t
   * ![New_District_Summary](/Resources/New_District_Summary.png)
 
  
+
+* School summary:
 
 * The school summary was only affected in regards to Thomas High School as all the other schools remained the same. The image showing the new school summary is shown below:
 
