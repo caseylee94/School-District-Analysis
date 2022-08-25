@@ -18,14 +18,16 @@ The school board has notified Maria that there has been academic dishonesty in t
 
 * School summary:
 
-* The school summary was only affected in regards to Thomas High School as all the other schools remained the same. The image showing the new school summary is shown below:
+  * The school summary was only affected in regards to Thomas High School as all the other schools remained the same. The image showing the new school summary is shown below:
 
   * New School Summary:
 ![Original_School_Summary](/Resources/Original_School_Summary.png)
 
- * The percent overall passing dropped from 90.95% to 65.08%
- * The average math score dropped from 83.42% to 83.35%
- * The average reading score dropped from 83.85% to 83.90%
- * The reason the percent overall passing dropped much less than the average scores is because the NaN values are effectively appearing as "0" for some students and the average scores are based on the number of students; the grades that have been replaced with NaN are not being represented in the average causing the scores to appear lower. The percent overall passing is a better indicator of how the scores have changed and is only based on the remaining scores, still has lowered since the dishonest reportings were removed.
+  * The percent overall passing dropped from 90.95% to 65.08%
+  * The average math score dropped from 83.42% to 83.35%
+  * The average reading score dropped from 83.85% to 83.90%
+  * The reason the percent overall passing dropped much less than the average scores is because the NaN values are effectively appearing as "0" for some students and the average scores are based on the number of students; the grades that have been replaced with NaN are not being represented in the average causing the scores to appear lower. The percent overall passing is a better indicator of how the scores have changed and is only based on the remaining scores, still has lowered since the dishonest reportings were removed.
 
-* 
+* This affected Thomas High School's overall performance against the other schools; in the original analysis Thomas High School was in the top 5 performing school but once the 9th graders scores are replaced with NaN Thomas High falls to ranking 8th.
+  * However, once the 9th graders were factored out by analyzing only the 10th, 11th, and 12th grade, which gives us greater insight into how Thomas High truly performed, Thomas High is once again in the top five:
+  * ![New_Top5_Schools.png](/Resources/New_Top5_Schools.png)
