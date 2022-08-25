@@ -14,7 +14,7 @@ The school board has notified Maria that there has been academic dishonesty in t
   * The new district summary:
   * ![New_District_Summary](/Resources/New_District_Summary.png)
 
- 
+  * All of the scores show a slight drop (except for average reading score) with the removal of the dishonest grades.
 
 * School summary:
 
