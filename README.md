@@ -31,18 +31,18 @@ The school board has notified Maria that there has been academic dishonesty in t
 * Performance against other schools:
  * This affected Thomas High School's overall performance against the other schools; in the original analysis Thomas High School was in the top 5 performing school but once the 9th graders' scores are replaced with NaN, Thomas High falls to the 8th ranking. 
   * However, once the 9th graders were factored out by analyzing only the 10th, 11th, and 12th grade, which gives us greater insight into how Thomas High truly performed, Thomas High is once again in the top five:
-  * ![New_Top5_Schools.png](/Resources/New_Top5_Schools.png)
+  ![New_Top5_Schools.png](/Resources/New_Top5_Schools.png)
   * The scores have overall dropped slightly but Thomas High retains it's ranking as a top five school.
 
 * Math and Reading Scores by Grade:
  * Replacing the reading and math scores with NaN did not affect the other scores by grade, it just replaced the 9th grade reading and math scores leaving all over the other data intact.
 
 * Scores by School Spending:
-  * ![New_Scores_School_Spending.png](/Resources/New_Scores_School_Spending.png)
+ ![New_Scores_School_Spending.png](/Resources/New_Scores_School_Spending.png)
   * Replacing these grades did not affect the scores by school spending. Again, this is because removing the dishonest scores and analyzing the data just for the 10th, 11th and 12th graders gives a much clearer picture of the schools performance. 
 
 * Scores by School Size:
-  * ![New_Scores_SchoolSize.png](/Resources/New_Scores_SchoolSize.png)
+![New_Scores_SchoolSize.png](/Resources/New_Scores_SchoolSize.png)
 
 * Scores by School Type:
-  * ![New_SchoolType.png](/Resources/New_SchoolType.png)
+  ![New_SchoolType.png](/Resources/New_SchoolType.png)
