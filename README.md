@@ -29,8 +29,8 @@ The school board has notified Maria that there has been academic dishonesty in t
   * The reason the percent overall passing dropped much less than the average scores is because the NaN values are effectively appearing as "0" for some students and the average scores are based on the number of students; the grades that have been replaced with NaN are not being represented in the average causing the scores to appear lower. The percent overall passing is a better indicator of how the scores have changed and is only based on the remaining scores, still has lowered since the dishonest reportings were removed.
 
 * Performance against other schools:
-  * This affected Thomas High School's overall performance against the other schools; in the original analysis Thomas High School was in the top five performing school but once the ninth graders' scores are replaced with NaN, Thomas High falls to the eighth ranking. 
-   * However, once the ninth graders were factored out by analyzing only the tenth, elevnth, and twelfth grade, which gives us greater insight into how Thomas High truly performed, Thomas High is once again in the top five:
+  * This affected Thomas High School's overall performance against the other schools; in the original analysis Thomas High School was in the top five performing schools but once the ninth graders' scores are replaced with NaN, Thomas High falls to the eighth ranking. 
+   * However, once the ninth graders were factored out by analyzing only the tenth, eleventh, and twelfth grade, which gives us greater insight into how Thomas High truly performed, Thomas High is once again in the top five:
   ![New_Top5_Schools.png](/Resources/New_Top5_Schools.png)
    * The scores have overall dropped slightly but Thomas High retains it's ranking as a top five school.
 
